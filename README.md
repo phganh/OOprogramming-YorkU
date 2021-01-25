@@ -13,9 +13,12 @@
 - creating methods with parameters to draw lines, rects, ellipses in x class
 - k is point increasement so that graphics are shifted to next drawing point & not collapse at the same initial point
 
+![alt text](https://github.com/phganh/simple-2D-Graphics-Java/blob/main/a.PNG?raw=true)
+
 🔥cons: graphics are displayed in pattern not randomly at random location
 
 💡improvements:
 - [ ] run time test
 - [ ] shorter version
+
 
