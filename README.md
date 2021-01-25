@@ -7,7 +7,7 @@ Object-Oriented Programming @ YorkU <br>
 - [x] different colors
 - [x] descriptive text displayed as a graphic
 - [x] Javadoc documentation & comments
-<br>
+
 💡 personal additionals
 
 <br>
