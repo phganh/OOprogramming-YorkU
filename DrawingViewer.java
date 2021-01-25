@@ -1,6 +1,6 @@
-package Assignment1;
 /**
-* @author	Anh P. Trinh
+*
+* @author Anh Trinh
 * 
 *	DrawingViewer class: main method
 * 		Creating the frame for drawing
