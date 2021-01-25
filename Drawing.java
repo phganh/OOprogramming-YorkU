@@ -1,7 +1,6 @@
-package Assignment1;
-
 /**
-* @author 		Anh P. Trinh
+*
+* @author Anh Trinh
 * 
 * Drawing class:
 * 		Responsible for drawing graphic	
