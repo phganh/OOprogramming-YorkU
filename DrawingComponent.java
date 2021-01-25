@@ -1,6 +1,6 @@
-package Assignment1;
 /**
-* @author 		Anh P. Trinh
+*
+* @author Anh Trinh
 * 
 * DrawingComponent class:
 * 		Responsible for displaying drawing
